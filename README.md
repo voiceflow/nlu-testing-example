@@ -1,6 +1,6 @@
 
 # Testing your NLU
-
+![VoiceflowML](VoiceflowMLLogo.png)
 
 In this repo you'll find a template for testing your NLU!
 This repository is based on 
