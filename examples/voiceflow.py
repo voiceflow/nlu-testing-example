@@ -10,6 +10,6 @@ test_intents_1 = {
 
 vf_test = VoiceflowNLUTester(test_intents_1, dm_key="")
 vf_test.run_tests()
-vf_test.compare_results()
 vf_test.save_results()
 vf_test.visualize_data()
+vf_test.compare_results()
