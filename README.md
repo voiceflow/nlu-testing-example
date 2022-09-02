@@ -13,7 +13,7 @@ Tutorial video provided [here](https://www.loom.com/share/83f26874d5e74429bce69a
 3. Upload the `examples/NLU_test_v1.vf`
 4. Navigate to the "play" button and hit "Train Assistant". Wait until training completes to use a trained NLU.
 5. Create your project dialogue manager key under the integrations tab.
-6. Copy your dialogue manager key into the `examples/voiceflow.py` folder.
+6. Copy your dialogue manager key into the `examples/voiceflow.py` file.
 7. Run the `examples/voiceflow.py`
 8. The `vf_test.compare_results()` function will fail
 9. Update your `order_fries` and `help_me` intent in the exisiting file. Or you can upload `examples/NLU_test_v2.vf` (and create a new DM key) 
